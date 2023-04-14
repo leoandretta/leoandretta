@@ -46,7 +46,7 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" width="30">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://pngimg.com/d/mysql_PNG23.png" width="30">
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="40">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="30">
 </p>
