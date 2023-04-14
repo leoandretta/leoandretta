@@ -20,13 +20,11 @@
 </h2>
 
  ### I'm a Full Stack Developer with a bachelor's degree in Computer Engineering, 23 years old and currently living in Brazil. I have a passion for learning about new technologies and discussing their usage. In my free time, I love to travel and explore new cultures. Fell free to contact me anywhere.
-<br>
 
 ___
 <!--
     TODO: add github stats and most used languages charts
  -->
-<br>
 
 ## About me
 ### 
@@ -34,7 +32,6 @@ ___
 ### 🏢 Full Stack Developer @ [Sieg AD](http://sieg-ad.com.br)
 ### 🌎 I speak English, Portuguese and Spanish
 ### 🏄‍♂️ Surfing, travelling, playing piano and acoustic guitar are my favorite hobbies
-<br>
 
 ___
 <br>
