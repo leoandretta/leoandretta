@@ -6,16 +6,25 @@
     Full Stack Developer
 </p>
 <p>
+    <a href="https://www.linkedin.com/in/leonardoagilinski/" >
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" href="https://www.linkedin.com/in/leonardoagilinski/"/>
     &nbsp;
+    </a>
+    <a href="https://twitter.com/leoandretta" >
     <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Twitter's logo" width="40" href="https://twitter.com/leoandretta"/>
+    </a>
     &nbsp;
+    <a href="https://www.instagram.com/leoandretta_/" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram's logo" width="40" href="https://www.instagram.com/leoandretta_/"/>
+    </a>
     &nbsp;&nbsp;
+    <a href="https://dev.to/leoandretta" >
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Dev.to's logo" width="40" href="https://dev.to/leoandretta"/>
+    </a>
     &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Instagram's logo" width="40" href="https://stackoverflow.com/users/21032419/leonardo-andretta-gilinski"/>
-    &nbsp;
+    <a href="https://stackoverflow.com/users/21032419/leonardo-andretta-gilinski" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Instagram's logo" width="40" />
+    </a>
 </p>
 </h2>
 
