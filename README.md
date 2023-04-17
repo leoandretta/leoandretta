@@ -43,6 +43,11 @@ ___
 ### 🏄‍♂️ Surfing, travelling, playing piano and acoustic guitar are my favorite hobbies
 
 ___
+<div>
+<a href="https://github.com/leoandretta">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoandretta&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoandretta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <br>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30">
