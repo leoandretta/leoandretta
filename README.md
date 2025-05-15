@@ -38,7 +38,6 @@ ___
 ## About me
 ### 
 ### 🎓 Computer Engineering bachelor @ [Universidade Positivo](https://www.up.edu.br) 
-### 🏢 Full Stack Developer @ [Sieg AD](http://sieg-ad.com.br)
 ### 🌎 I speak English, Portuguese and Spanish
 ### 🏄‍♂️ Surfing, travelling, playing piano and acoustic guitar are my favorite hobbies
 
